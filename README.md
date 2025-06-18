@@ -1,4 +1,4 @@
-# HireMint - MERN Stack Job Portal  
+# Pobjob - MERN Stack Job Portal  
 
 HireMint is a comprehensive job portal application designed to connect job seekers with employers. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), it provides a seamless experience for job searching, hiring, and application tracking.  
 
@@ -58,6 +58,4 @@ Contributions are always welcome! Whether it’s fixing bugs, improving document
 2. Create a new branch for your feature/bug fix.  
 3. Submit a pull request for review.  
 
-## 🔗 Let's Connect:-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshadsantoshjaiswal)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akshad_999)
+
